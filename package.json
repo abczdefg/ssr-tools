@@ -1,0 +1,13 @@
+{
+  "name": "ssr-tools",
+  "version": "0.0.1",
+  "description": "Get free ssr account and write into file.",
+  "main": "app.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.3"
+  }
+}
