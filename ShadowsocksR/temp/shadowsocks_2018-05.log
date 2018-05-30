@@ -3827,3 +3827,116 @@
 [2018-05-30 19:49:59] [Info] Disconnect raw.githubusercontent.com:443
 [2018-05-30 19:49:59] [Info] Connect raw.githubusercontent.com:443
 [2018-05-30 19:50:01] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:03] ShadowsocksR started on port 1080
+[2018-05-30 19:50:13] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:15] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:18] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:20] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:50:20] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:23] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:25] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:28] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:50:28] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:30] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:32] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:35] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:50:35] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:37] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:40] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:50:42] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:50:42] [Error] connect to update server error
+[2018-05-30 19:50:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 19:52:35] ShadowsocksR started on port 1080
+[2018-05-30 19:52:45] ShadowsocksR started on port 1080
+[2018-05-30 19:52:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 19:52:55] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:52:57] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:52:59] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:02] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:53:02] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:04] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:07] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:09] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:53:09] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:11] [Info] Direct connect sp2.baidu.com:443
+[2018-05-30 19:53:11] [Info] Direct connect www.baidu.com:443
+[2018-05-30 19:53:11] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 19:53:11] [Info] Direct connect get.sogou.com:80
+[2018-05-30 19:53:12] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:12] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 19:53:12] [Info] Direct connect blog.csdn.net:443
+[2018-05-30 19:53:12] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:12] [Info] Direct connect get.sogou.com:80
+[2018-05-30 19:53:12] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 19:53:12] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 19:53:12] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 19:53:12] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 19:53:12] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 19:53:12] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 19:53:12] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 19:53:12] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 19:53:12] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 19:53:12] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 19:53:12] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 19:53:12] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 19:53:12] [Info] Direct connect static-blog.csdn.net:443
+[2018-05-30 19:53:12] [Info] Direct connect img-blog.csdn.net:443
+[2018-05-30 19:53:13] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 19:53:13] [Info] Direct connect passport.csdn.net:443
+[2018-05-30 19:53:13] [Info] Direct connect statistic.csdn.net:443
+[2018-05-30 19:53:13] [Info] Direct connect gsp0.baidu.com:443
+[2018-05-30 19:53:13] [Info] Direct connect passport.csdn.net:443
+[2018-05-30 19:53:13] [Info] Direct connect my.csdn.net:443
+[2018-05-30 19:53:13] [Info] Direct connect edu.csdn.net:443
+[2018-05-30 19:53:13] [Info] Direct connect pv.csdn.net:443
+[2018-05-30 19:53:13] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:14] [Info] Direct connect re.csdn.net:443
+[2018-05-30 19:53:14] [Info] Direct connect re.csdn.net:443
+[2018-05-30 19:53:14] [Info] Direct connect experiment.appadhoc.com:443
+[2018-05-30 19:53:14] [Info] Direct connect tracker.appadhoc.com:443
+[2018-05-30 19:53:14] [Info] Direct connect sdk.appadhoc.com:443
+[2018-05-30 19:53:14] [Info] Direct connect zhannei-dm.csdn.net:443
+[2018-05-30 19:53:14] [Info] Direct connect beacon.tingyun.com:443
+[2018-05-30 19:53:14] [Info] Direct connect beacon.tingyun.com:443
+[2018-05-30 19:53:14] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:14] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:15] [Info] Direct connect beacon.tingyun.com:443
+[2018-05-30 19:53:16] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:17] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:17] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:53:17] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:18] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:19] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 19:53:19] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:21] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 19:53:22] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:53:24] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:53:24] [Error] connect to update server error
+[2018-05-30 19:53:26] [Info] Direct connect get.sogou.com:80
+[2018-05-30 19:53:30] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 19:53:30] [Info] Direct connect get.sogou.com:80
+[2018-05-30 19:53:30] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:31] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 19:53:31] [Info] Direct connect www.cnblogs.com:443
+[2018-05-30 19:53:31] [Info] Direct connect get.sogou.com:80
+[2018-05-30 19:53:31] [Info] Direct connect mathjax.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Direct connect images.cnblogs.com:80
+[2018-05-30 19:53:32] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:32] [Info] Direct connect images.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Direct connect common.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Direct connect files.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Direct connect pic.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Direct connect counter.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Direct connect static.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Direct connect static.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Direct connect static.cnblogs.com:443
+[2018-05-30 19:53:32] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:34] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:35] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:37] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 19:53:37] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 19:53:39] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 19:53:43] [Info] Direct connect get.sogou.com:80
+[2018-05-30 19:53:44] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 19:53:53] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 19:53:55] [Info] Direct connect ping.ie.sogou.com:80
