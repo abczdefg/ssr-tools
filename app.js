@@ -1,6 +1,7 @@
 const path = require('path')
 const SS = require('./ss.js')
-const ProcessController = require('./processController.js')
+const ishadow = require('./api/ishadow.js')
+// const ProcessController = require('./processController.js')
 // 子进程需要保持打开才能运行exe
 // 改用bat方式执行
 
@@ -8,7 +9,7 @@ const option = {
   dir: path.resolve(__dirname, 'ShadowsocksR'),
   exeName: 'ShadowsocksR.exe',
   configName: 'gui-config.json',
-  url: 'http://ss.ishadowx.com/'
+  api: ishadow
 };
 
 let ss = new SS(option);

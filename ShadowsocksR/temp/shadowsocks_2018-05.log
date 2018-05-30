@@ -3940,3 +3940,1261 @@
 [2018-05-30 19:53:44] [Info] Direct connect ping.ie.sogou.com:80
 [2018-05-30 19:53:53] [Info] Direct connect ping.ie.sogou.com:80
 [2018-05-30 19:53:55] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 19:54:13] ShadowsocksR started on port 1080
+[2018-05-30 19:54:23] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:25] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:28] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:30] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:54:30] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:33] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:35] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:38] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:54:38] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:40] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:43] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:45] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:54:45] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:48] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:50] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:54:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 19:54:52] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:54:52] [Error] connect to update server error
+[2018-05-30 19:56:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 19:58:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 19:59:23] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:25] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:28] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:30] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:59:30] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:33] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:35] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:38] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:59:38] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:40] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:43] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:45] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:59:45] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:47] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:50] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 19:59:52] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 19:59:52] [Error] connect to update server error
+[2018-05-30 20:00:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 20:02:50] ShadowsocksR started on port 1080
+[2018-05-30 20:02:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 20:02:59] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:02] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:04] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:07] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:03:07] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:09] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:10] ShadowsocksR started on port 1080
+[2018-05-30 20:03:18] ShadowsocksR started on port 1080
+[2018-05-30 20:03:28] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:30] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:33] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:35] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:03:35] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:38] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:40] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:43] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:03:43] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:45] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:48] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:50] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:03:50] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:52] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:55] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:03:57] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:03:57] [Error] connect to update server error
+[2018-05-30 20:18:45] ShadowsocksR started on port 1080
+[2018-05-30 20:18:50] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:18:50] [Info] Connect www.google.com:443
+[2018-05-30 20:18:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 20:18:52] [Info] Connect www.google.com:443
+[2018-05-30 20:18:54] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:18:55] [Info] Connect www.google.com:443
+[2018-05-30 20:18:57] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:18:57] [Info] Disconnect www.google.com:443
+[2018-05-30 20:18:57] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 20:18:57] [Info] Direct connect d.123.sogoucdn.com:80
+[2018-05-30 20:18:58] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:18:58] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:18:58] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:18:59] [Info] Connect www.google.com:443
+[2018-05-30 20:18:59] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:01] [Info] Connect www.google.com:443
+[2018-05-30 20:19:01] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:19:01] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:04] [Info] Connect www.google.com:443
+[2018-05-30 20:19:04] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:05] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:05] [Info] Connect www.google.com:443
+[2018-05-30 20:19:05] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:06] [Info] Disconnect www.google.com:443
+[2018-05-30 20:19:06] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:06] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:19:06] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:19:06] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:06] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:19:06] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 20:19:06] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:06] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:19:06] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:19:06] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:08] [Info] Connect www.google.com:443
+[2018-05-30 20:19:09] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:19:09] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:10] [Info] Connect www.google.com:443
+[2018-05-30 20:19:11] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:13] [Info] Disconnect www.google.com:443
+[2018-05-30 20:19:14] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:14] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:15] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:15] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:15] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:16] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:16] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:19:16] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:16] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:17] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:17] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:18] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:18] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:19] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:19] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:19] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:20] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 20:19:20] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 20:19:20] [Info] Direct connect www.baidu.com:443
+[2018-05-30 20:19:20] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:20] [Info] Direct connect www.baidu.com:443
+[2018-05-30 20:19:20] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 20:19:20] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:21] [Info] Direct connect sp0.baidu.com:443
+[2018-05-30 20:19:21] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:19:22] [Info] Direct connect sp2.baidu.com:443
+[2018-05-30 20:19:22] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 20:19:22] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 20:19:22] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:23] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 20:19:23] [Info] Direct connect blog.csdn.net:443
+[2018-05-30 20:19:23] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:23] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 20:19:23] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 20:19:23] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 20:19:23] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 20:19:23] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 20:19:23] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 20:19:23] [Info] Direct connect static-blog.csdn.net:443
+[2018-05-30 20:19:23] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 20:19:23] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 20:19:23] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 20:19:23] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 20:19:23] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 20:19:23] [Info] Direct connect avatar.csdn.net:443
+[2018-05-30 20:19:24] [Info] Direct connect csdnimg.cn:443
+[2018-05-30 20:19:24] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:19:24] [Error] connect to update server error
+[2018-05-30 20:19:24] [Info] Direct connect statistic.csdn.net:443
+[2018-05-30 20:19:24] [Info] Direct connect gsp0.baidu.com:443
+[2018-05-30 20:19:24] [Info] Direct connect my.csdn.net:443
+[2018-05-30 20:19:24] [Info] Direct connect passport.csdn.net:443
+[2018-05-30 20:19:24] [Info] Direct connect edu.csdn.net:443
+[2018-05-30 20:19:24] [Info] Direct connect pv.csdn.net:443
+[2018-05-30 20:19:24] [Info] Direct connect re.csdn.net:443
+[2018-05-30 20:19:24] [Info] Direct connect re.csdn.net:443
+[2018-05-30 20:19:25] [Info] Direct connect experiment.appadhoc.com:443
+[2018-05-30 20:19:25] [Info] Direct connect tracker.appadhoc.com:443
+[2018-05-30 20:19:26] [Info] Direct connect beacon.tingyun.com:443
+[2018-05-30 20:19:26] [Info] Direct connect zhannei-dm.csdn.net:443
+[2018-05-30 20:19:26] [Info] Direct connect beacon.tingyun.com:443
+[2018-05-30 20:19:28] [Info] Direct connect config.pinyin.sogou.com:80
+[2018-05-30 20:19:28] [Info] Direct connect info.pinyin.sogou.com:80
+[2018-05-30 20:19:29] [Info] Direct connect ping.pinyin.sogou.com:80
+[2018-05-30 20:19:29] [Info] Direct connect ping.pinyin.sogou.com:80
+[2018-05-30 20:19:35] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:19:38] [Info] Direct connect ping.pinyin.sogou.com:80
+[2018-05-30 20:19:38] [Info] Direct connect ping.pinyin.sogou.com:80
+[2018-05-30 20:19:42] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 20:19:43] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 20:19:45] [Info] Direct connect re.csdn.net:443
+[2018-05-30 20:19:45] [Info] Direct connect re.csdn.net:443
+[2018-05-30 20:19:45] [Info] Direct connect re.csdn.net:443
+[2018-05-30 20:19:45] [Info] Direct connect re.csdn.net:443
+[2018-05-30 20:20:02] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 20:20:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 20:21:05] [Info] Direct connect sp2.baidu.com:443
+[2018-05-30 20:21:05] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 20:21:05] [Info] Direct connect www.baidu.com:443
+[2018-05-30 20:21:05] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:21:06] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 20:21:06] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 20:21:06] [Info] Direct connect segmentfault.com:443
+[2018-05-30 20:21:06] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:21:06] [Info] Direct connect static.segmentfault.com:443
+[2018-05-30 20:21:06] [Info] Direct connect sfault-avatar.b0.upaiyun.com:443
+[2018-05-30 20:21:06] [Info] Direct connect sfault-avatar.b0.upaiyun.com:443
+[2018-05-30 20:21:07] [Info] Direct connect sfault-files.b0.upaiyun.com:443
+[2018-05-30 20:21:07] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 20:21:07] [Info] Direct connect cookie.pingxx.com:443
+[2018-05-30 20:21:08] [Info] Direct connect sfault-image.b0.upaiyun.com:443
+[2018-05-30 20:21:08] [Info] Direct connect sfault-image.b0.upaiyun.com:443
+[2018-05-30 20:21:08] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 20:21:10] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 20:21:10] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 20:21:12] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 20:21:13] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 20:21:14] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 20:21:20] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:22:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 20:23:54] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:23:57] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:23:59] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:01] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:24:01] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:04] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:06] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:09] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:24:09] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:11] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:14] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:16] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:24:16] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:19] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:21] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:24:23] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:24:23] [Error] connect to update server error
+[2018-05-30 20:24:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 20:57:56] ShadowsocksR started on port 1080
+[2018-05-30 20:57:57] [Info] Connect www.google.com:443
+[2018-05-30 20:58:00] [Info] Connect www.google.com:443
+[2018-05-30 20:58:02] [Info] Connect www.google.com:443
+[2018-05-30 20:58:02] [Info] Connect www.google.com:443
+[2018-05-30 20:58:04] [Info] Connect www.google.com:443
+[2018-05-30 20:58:04] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:04] [Info] Connect www.google.com:443
+[2018-05-30 20:58:05] [Info] Disconnect www.google.com:443
+[2018-05-30 20:58:05] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect 222.73.156.235:8888
+[2018-05-30 20:58:05] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 20:58:05] [Info] Direct connect d.123.sogoucdn.com:80
+[2018-05-30 20:58:06] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:06] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:06] [Info] Direct connect www.gstatic.com:443
+[2018-05-30 20:58:06] [Info] Direct connect www.gstatic.com:443
+[2018-05-30 20:58:06] [Info] Connect www.google.com:443
+[2018-05-30 20:58:07] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:07] [Info] Connect www.google.com:443
+[2018-05-30 20:58:07] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:09] [Info] Connect www.google.com:443
+[2018-05-30 20:58:09] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:09] [Info] Disconnect www.google.com:443
+[2018-05-30 20:58:09] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:09] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:58:09] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:09] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:58:09] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:09] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 20:58:09] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:10] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:10] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:11] [Info] Disconnect www.google.com:443
+[2018-05-30 20:58:12] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:58:12] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:14] [Info] Connect www.google.com:443
+[2018-05-30 20:58:14] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:16] [Info] Connect www.google.com:443
+[2018-05-30 20:58:16] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:19] [Info] Connect www.google.com:443
+[2018-05-30 20:58:19] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:58:19] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:21] [Info] Disconnect www.google.com:443
+[2018-05-30 20:58:21] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:21] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:58:21] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:58:21] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:21] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:21] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:21] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 20:58:21] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:21] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:21] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:24] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:26] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:58:26] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:29] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:31] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 20:58:34] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 20:58:34] [Error] connect to update server error
+[2018-05-30 20:58:38] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 20:58:38] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:38] [Info] Connect www.google.com:443
+[2018-05-30 20:58:40] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:41] [Info] Connect www.google.com:443
+[2018-05-30 20:58:43] [Info] Connect www.google.com:443
+[2018-05-30 20:58:46] [Info] Disconnect www.google.com:443
+[2018-05-30 20:58:46] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:46] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:58:46] [Info] Direct connect www.sogou.com:80
+[2018-05-30 20:58:46] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:46] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:46] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 20:58:46] [Info] Direct connect get.sogou.com:80
+[2018-05-30 20:58:46] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:46] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 20:58:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 20:59:01] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:00:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:01:28] [Info] Connect www.google.com:443
+[2018-05-30 21:01:31] [Info] Connect www.google.com:443
+[2018-05-30 21:01:33] [Info] Connect www.google.com:443
+[2018-05-30 21:01:36] [Info] Disconnect www.google.com:443
+[2018-05-30 21:01:36] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:01:36] [Info] Direct connect www.sogou.com:80
+[2018-05-30 21:01:36] [Info] Direct connect www.sogou.com:80
+[2018-05-30 21:01:36] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:01:36] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:01:36] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 21:01:36] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:01:36] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:01:36] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:01:37] [Info] Connect www.google.com:443
+[2018-05-30 21:01:40] [Info] Connect www.google.com:443
+[2018-05-30 21:01:42] [Info] Connect www.google.com:443
+[2018-05-30 21:01:43] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:01:45] [Info] Disconnect www.google.com:443
+[2018-05-30 21:01:45] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect www.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect www.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:01:45] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:01:54] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:01:54] [Info] Direct connect tieba.baidu.com:443
+[2018-05-30 21:01:54] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:01:54] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:01:54] [Info] Direct connect gsp0.baidu.com:443
+[2018-05-30 21:01:54] [Info] Direct connect passport.baidu.com:443
+[2018-05-30 21:02:00] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:02:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:03:04] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:07] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:09] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:11] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 21:03:11] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:14] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:16] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:19] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 21:03:19] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:21] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:24] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:26] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 21:03:26] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:29] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:31] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:03:34] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 21:03:34] [Error] connect to update server error
+[2018-05-30 21:04:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:06:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:08:10] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:10] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:08:10] [Info] Connect weather.tile.appex.bing.com:80
+[2018-05-30 21:08:10] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:11] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:12] [Info] Connect foodanddrink.services.appex.bing.com:80
+[2018-05-30 21:08:13] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:13] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:08:13] [Info] Connect weather.tile.appex.bing.com:80
+[2018-05-30 21:08:13] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:15] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:15] [Info] Connect foodanddrink.services.appex.bing.com:80
+[2018-05-30 21:08:15] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:15] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:08:16] [Info] Connect weather.tile.appex.bing.com:80
+[2018-05-30 21:08:17] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:17] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:17] [Info] Connect foodanddrink.services.appex.bing.com:80
+[2018-05-30 21:08:17] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:17] [Info] Disconnect finance.services.appex.bing.com:80
+[2018-05-30 21:08:18] [Info] Disconnect weather.tile.appex.bing.com:80
+[2018-05-30 21:08:19] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:20] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:08:20] [Info] Disconnect foodanddrink.services.appex.bing.com:80
+[2018-05-30 21:08:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:10:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:12:47] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 21:12:48] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 21:12:48] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 21:12:49] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 21:12:49] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 21:12:50] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 21:12:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:12:51] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 21:12:51] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 21:12:51] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:12:51] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:12:51] [Info] Direct connect www.baidu.com:443
+[2018-05-30 21:12:51] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:12:51] [Info] Direct connect www.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 21:12:52] [Info] Direct connect ss2.baidu.com:443
+[2018-05-30 21:12:52] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:12:52] [Info] Direct connect sp0.baidu.com:443
+[2018-05-30 21:12:55] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:12:56] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:12:56] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:12:56] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:12:57] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:12:57] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 21:12:57] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:12:57] [Info] Direct connect gss0.baidu.com:443
+[2018-05-30 21:12:58] [Info] Direct connect sp2.baidu.com:443
+[2018-05-30 21:12:58] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:12:58] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:12:58] [Info] Direct connect kstj.baidu.com:443
+[2018-05-30 21:12:58] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:12:59] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:12:59] [Info] Direct connect gh.bdstatic.com:443
+[2018-05-30 21:12:59] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:12:59] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:12:59] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:12:59] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 21:12:59] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:12:59] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:13:00] [Info] Direct connect river.zhidao.baidu.com:443
+[2018-05-30 21:13:00] [Info] Direct connect gss0.bdstatic.com:443
+[2018-05-30 21:13:00] [Info] Direct connect gss0.bdstatic.com:443
+[2018-05-30 21:13:00] [Info] Direct connect gss0.bdstatic.com:443
+[2018-05-30 21:13:00] [Info] Direct connect gss0.bdstatic.com:443
+[2018-05-30 21:13:00] [Info] Direct connect gss0.bdstatic.com:443
+[2018-05-30 21:13:00] [Info] Direct connect gss0.bdstatic.com:443
+[2018-05-30 21:13:00] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 21:13:00] [Info] Direct connect entry.baidu.com:443
+[2018-05-30 21:13:00] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:13:00] [Info] Direct connect gss0.baidu.com:443
+[2018-05-30 21:13:01] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 21:13:01] [Info] Direct connect sp1.baidu.com:443
+[2018-05-30 21:13:02] [Info] Direct connect gh.bdstatic.com:443
+[2018-05-30 21:13:02] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:13:02] [Info] Direct connect gss0.baidu.com:443
+[2018-05-30 21:13:02] [Info] Direct connect entry.baidu.com:443
+[2018-05-30 21:13:02] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:13:02] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:13:02] [Info] Direct connect gss0.bdstatic.com:443
+[2018-05-30 21:13:04] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:13:04] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:13:06] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:13:06] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 21:13:07] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 21:13:07] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 21:13:07] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:13:08] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 21:13:09] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 21:13:09] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:13:12] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 21:13:14] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 21:13:17] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 21:14:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:16:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:18:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:20:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:22:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:23:00] [Info] Connect javadl-esd-secure.oracle.com:443
+[2018-05-30 21:23:03] [Info] Connect javadl-esd-secure.oracle.com:443
+[2018-05-30 21:23:05] [Info] Connect javadl-esd-secure.oracle.com:443
+[2018-05-30 21:23:08] [Info] Disconnect javadl-esd-secure.oracle.com:443
+[2018-05-30 21:24:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:26:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:28:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:30:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:32:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:34:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:36:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:38:10] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:10] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:10] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:10] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:38:13] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:13] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:13] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:13] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:38:15] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:15] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:15] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:38:15] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:17] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:17] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:17] [Info] Disconnect finance.services.appex.bing.com:80
+[2018-05-30 21:38:17] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:38:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:40:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:42:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:43:05] [Info] Direct connect data.ie.sogou.com:80
+[2018-05-30 21:43:06] [Info] Direct connect account.sogou.com:443
+[2018-05-30 21:43:06] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 21:43:07] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 21:43:14] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 21:43:20] [Info] Direct connect img02.sogoucdn.com:80
+[2018-05-30 21:44:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:46:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:48:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:50:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:52:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:54:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:56:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 21:58:16] [Info] Connect weather.tile.appex.bing.com:80
+[2018-05-30 21:58:16] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:58:16] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:16] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:17] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:18] [Info] Connect foodanddrink.services.appex.bing.com:80
+[2018-05-30 21:58:19] [Info] Connect weather.tile.appex.bing.com:80
+[2018-05-30 21:58:19] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:19] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:58:19] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:21] [Info] Connect foodanddrink.services.appex.bing.com:80
+[2018-05-30 21:58:21] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:21] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:21] [Info] Connect weather.tile.appex.bing.com:80
+[2018-05-30 21:58:22] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 21:58:23] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:24] [Info] Connect foodanddrink.services.appex.bing.com:80
+[2018-05-30 21:58:24] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:24] [Info] Disconnect weather.tile.appex.bing.com:80
+[2018-05-30 21:58:24] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:24] [Info] Disconnect finance.services.appex.bing.com:80
+[2018-05-30 21:58:25] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:26] [Info] Disconnect foodanddrink.services.appex.bing.com:80
+[2018-05-30 21:58:26] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 21:58:50] ShadowsocksR started on port 1080
+[2018-05-30 21:58:55] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:58:55] [Info] Direct connect vulture.mse.sogou.com:80
+[2018-05-30 21:58:55] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:58:55] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:58:55] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:58:55] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:58:56] [Info] Direct connect favor.ie.sogou.com:80
+[2018-05-30 21:58:56] [Info] Direct connect favor.ie.sogou.com:80
+[2018-05-30 21:58:56] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:58:56] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect xml.tb.sogou.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:56] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:57] [Info] Direct connect xml.tb.sogou.com:80
+[2018-05-30 21:58:57] [Info] Connect www.google.com:443
+[2018-05-30 21:58:57] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 21:58:57] [Info] Direct connect xml.tb.sogou.com:80
+[2018-05-30 21:58:57] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:58:59] [Info] Connect www.google.com:443
+[2018-05-30 21:59:00] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:02] [Info] Connect www.google.com:443
+[2018-05-30 21:59:02] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:04] [Info] Disconnect www.google.com:443
+[2018-05-30 21:59:04] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect www.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect www.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect 222.73.156.235:8888
+[2018-05-30 21:59:04] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 21:59:04] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 21:59:05] [Info] Direct connect d.123.sogoucdn.com:80
+[2018-05-30 21:59:05] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:59:05] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 21:59:05] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:07] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 21:59:07] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:10] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:10] [Info] Direct connect get.sogou.com:80
+[2018-05-30 21:59:12] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:15] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 21:59:15] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:17] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:20] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:22] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 21:59:22] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:24] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:27] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 21:59:29] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 21:59:29] [Error] connect to update server error
+[2018-05-30 22:00:07] ShadowsocksR started on port 1080
+[2018-05-30 22:00:17] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:19] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:22] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:24] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:00:24] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:27] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:29] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:32] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:00:32] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:34] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:37] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:39] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:00:39] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:42] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:44] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:00:46] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:00:46] [Error] connect to update server error
+[2018-05-30 22:00:47] [Info] Connect ss.ishadowx.com:80
+[2018-05-30 22:00:48] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:00:48] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:00:49] [Info] Connect ss.ishadowx.com:80
+[2018-05-30 22:00:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:00:51] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:00:51] [Info] Connect ss.ishadowx.com:80
+[2018-05-30 22:00:53] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:00:54] [Info] Disconnect ss.ishadowx.com:80
+[2018-05-30 22:00:56] [Info] Disconnect my.ishadowx.net:443
+[2018-05-30 22:00:56] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:00:56] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:00:56] [Info] Direct connect www.sogou.com:80
+[2018-05-30 22:00:56] [Info] Direct connect www.sogou.com:80
+[2018-05-30 22:00:56] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:00:56] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:00:56] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 22:01:25] ShadowsocksR started on port 1080
+[2018-05-30 22:01:28] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:28] [Info] Direct connect vulture.mse.sogou.com:80
+[2018-05-30 22:01:28] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:29] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:29] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:29] [Info] Direct connect favor.ie.sogou.com:80
+[2018-05-30 22:01:29] [Info] Direct connect favor.ie.sogou.com:80
+[2018-05-30 22:01:29] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:29] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:29] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:29] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:30] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:30] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:01:30] [Info] Connect www.google.com:443
+[2018-05-30 22:01:30] [Info] Direct connect img01.sogoucdn.com:80
+[2018-05-30 22:01:32] [Info] Connect www.google.com:443
+[2018-05-30 22:01:35] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:35] [Info] Connect www.google.com:443
+[2018-05-30 22:01:37] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:37] [Info] Disconnect www.google.com:443
+[2018-05-30 22:01:37] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:01:37] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:37] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 22:01:37] [Info] Direct connect www.sogou.com:80
+[2018-05-30 22:01:37] [Info] Direct connect www.sogou.com:80
+[2018-05-30 22:01:37] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:38] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 22:01:38] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 22:01:38] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:38] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 22:01:38] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 22:01:40] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:42] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:01:42] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:43] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:01:45] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:47] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:49] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:01:49] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:52] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:54] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:57] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:01:57] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:01:57] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:01:57] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:01:57] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:01:57] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:01:59] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:01:59] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:02:00] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:02:00] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:02:00] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:02:00] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:02:02] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:02:02] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:02:02] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:02:02] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:02:02] [Info] Connect my.ishadowx.net:443
+[2018-05-30 22:06:01] ShadowsocksR started on port 1080
+[2018-05-30 22:06:11] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:06:13] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:06:15] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:06:18] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:06:18] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:06:20] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:06:23] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:06:34] [Info] Connect www.google.com:443
+[2018-05-30 22:06:35] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:06:36] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 22:06:36] [Info] Connect ogs.google.com:443
+[2018-05-30 22:06:36] [Info] Direct connect csi.gstatic.com:443
+[2018-05-30 22:06:41] [Info] Connect notifications.google.com:443
+[2018-05-30 22:06:43] [Info] Connect accounts.google.com:443
+[2018-05-30 22:06:49] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:06:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:08:04] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:08:39] [Info] Disconnect ogs.google.com:443
+[2018-05-30 22:08:39] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 22:08:45] [Info] Disconnect accounts.google.com:443
+[2018-05-30 22:08:45] [Info] Disconnect notifications.google.com:443
+[2018-05-30 22:08:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:09:19] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 22:09:19] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 22:09:21] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 22:09:21] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 22:09:22] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:09:22] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:09:22] [Info] Direct connect www.baidu.com:443
+[2018-05-30 22:09:22] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:09:22] [Info] Direct connect www.baidu.com:443
+[2018-05-30 22:09:23] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 22:09:23] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 22:09:23] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 22:09:23] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 22:09:23] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 22:09:23] [Info] Direct connect sp1.baidu.com:443
+[2018-05-30 22:09:23] [Info] Direct connect sp0.baidu.com:443
+[2018-05-30 22:09:25] [Info] Direct connect sp2.baidu.com:443
+[2018-05-30 22:09:25] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:09:25] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:09:25] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:09:25] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect joytone.91160.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:25] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect www.pkuszh.com:80
+[2018-05-30 22:09:26] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-05-30 22:09:26] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-05-30 22:09:26] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-05-30 22:09:27] [Info] Direct connect config.pinyin.sogou.com:80
+[2018-05-30 22:09:28] [Info] Direct connect info.pinyin.sogou.com:80
+[2018-05-30 22:09:29] [Info] Direct connect ping.pinyin.sogou.com:80
+[2018-05-30 22:09:29] [Info] Direct connect ping.pinyin.sogou.com:80
+[2018-05-30 22:09:29] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:09:29] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:09:29] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 22:09:29] [Info] Direct connect api.share.baidu.com:80
+[2018-05-30 22:09:29] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:31] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:09:31] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:31] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 22:09:31] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:31] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect fex.bdstatic.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:32] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:32] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 22:09:33] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:33] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:33] [Info] Direct connect ss2.bdstatic.com:443
+[2018-05-30 22:09:33] [Info] Direct connect ss2.bdstatic.com:443
+[2018-05-30 22:09:33] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:33] [Info] Direct connect ss3.bdstatic.com:443
+[2018-05-30 22:09:33] [Info] Direct connect ss1.bdstatic.com:443
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect ss1.bdstatic.com:443
+[2018-05-30 22:09:33] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect himg.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect ss1.bdstatic.com:443
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:33] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:33] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:34] [Info] Direct connect ss3.bdstatic.com:443
+[2018-05-30 22:09:34] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:34] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:34] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:34] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:34] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:34] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:34] [Info] Direct connect fex.bdstatic.com:80
+[2018-05-30 22:09:35] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:35] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 22:09:36] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 22:09:36] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:36] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:36] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect get.sogou.com:80
+[2018-05-30 22:09:37] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:37] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:37] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:37] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:37] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:37] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:38] [Info] Direct connect webmap0.bdimg.com:80
+[2018-05-30 22:09:38] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:38] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:38] [Info] Direct connect webmap1.bdimg.com:80
+[2018-05-30 22:09:38] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:38] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:39] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:40] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:40] [Info] Direct connect ss2.bdstatic.com:443
+[2018-05-30 22:09:42] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:42] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:43] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:44] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:44] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:45] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:47] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:48] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:48] [Info] Direct connect pcor.baidu.com:443
+[2018-05-30 22:09:49] [Info] Disconnect www.google.com:443
+[2018-05-30 22:09:51] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:51] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:53] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:09:57] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:57] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:09:58] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:10:03] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:10:05] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:10:06] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:10:08] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:10:09] [Info] Direct connect map.baidu.com:80
+[2018-05-30 22:10:13] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:10:23] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:10:43] [Info] Direct connect static.tieba.baidu.com:80
+[2018-05-30 22:10:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:11:10] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:12:37] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 22:12:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:14:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:15:44] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 22:16:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:18:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:20:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:22:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:24:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:26:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:28:41] [Info] Connect finance.services.appex.bing.com:80
+[2018-05-30 22:28:41] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 22:28:41] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 22:28:41] [Info] Connect zh-cn.appex-rf.msn.com:80
+[2018-05-30 22:28:42] [Info] Disconnect finance.services.appex.bing.com:80
+[2018-05-30 22:28:42] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 22:28:42] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 22:28:43] [Info] Disconnect zh-cn.appex-rf.msn.com:80
+[2018-05-30 22:28:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:30:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:32:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:34:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:36:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:38:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:40:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:42:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:44:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:46:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:48:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:50:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:51:05] [Info] Direct connect config.pinyin.sogou.com:80
+[2018-05-30 22:51:05] [Info] Direct connect info.pinyin.sogou.com:80
+[2018-05-30 22:51:09] [Info] Direct connect ping.pinyin.sogou.com:80
+[2018-05-30 22:51:36] [Info] Direct connect info.pinyin.sogou.com:80
+[2018-05-30 22:52:06] [Info] Direct connect info.pinyin.sogou.com:80
+[2018-05-30 22:52:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:54:06] [Info] Direct connect info.pinyin.sogou.com:80
+[2018-05-30 22:54:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:56:06] [Info] Direct connect info.pinyin.sogou.com:80
+[2018-05-30 22:56:06] [Info] Direct connect ping.pinyin.sogou.com:80
+[2018-05-30 22:56:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:58:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 22:59:49] ShadowsocksR started on port 1080
+[2018-05-30 22:59:54] [Info] Connect www.google.com:443
+[2018-05-30 22:59:56] [Info] Connect www.google.com:443
+[2018-05-30 22:59:59] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 22:59:59] [Info] Direct connect nsclick.baidu.com:80
+[2018-05-30 22:59:59] [Info] Connect www.google.com:443
+[2018-05-30 23:00:01] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:01] [Info] Disconnect www.google.com:443
+[2018-05-30 23:00:01] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:00:01] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:00:02] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:00:02] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:00:02] [Info] Direct connect 222.73.156.235:8888
+[2018-05-30 23:00:02] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:00:02] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:00:02] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 23:00:02] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 23:00:02] [Info] Direct connect d.123.sogoucdn.com:80
+[2018-05-30 23:00:02] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:00:02] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:00:04] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:06] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 23:00:06] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:06] [Info] Connect www.google.com:443
+[2018-05-30 23:00:08] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:09] [Info] Connect www.google.com:443
+[2018-05-30 23:00:09] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:00:11] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:11] [Info] Connect www.google.com:443
+[2018-05-30 23:00:13] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 23:00:13] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:14] [Info] Disconnect www.google.com:443
+[2018-05-30 23:00:14] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:00:14] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:00:16] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:18] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:21] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 23:00:21] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:23] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:26] [Info] Connect raw.githubusercontent.com:443
+[2018-05-30 23:00:28] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-30 23:00:28] [Error] connect to update server error
+[2018-05-30 23:00:29] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:00:35] [Info] Direct connect ping.ie.sogou.com:80
+[2018-05-30 23:00:50] [Info] Direct connect zhidao.baidu.com:443
+[2018-05-30 23:01:34] [Info] Connect www.google.com:443
+[2018-05-30 23:01:36] [Info] Connect www.google.com:443
+[2018-05-30 23:01:38] [Info] Connect www.google.com:443
+[2018-05-30 23:01:41] [Info] Disconnect www.google.com:443
+[2018-05-30 23:01:41] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:01:41] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:01:41] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:01:41] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:01:41] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:01:41] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 23:01:41] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:01:41] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:01:41] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:01:49] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:07] [Info] Connect www.google.com:443
+[2018-05-30 23:02:10] [Info] Connect www.google.com:443
+[2018-05-30 23:02:12] [Info] Connect www.google.com:443
+[2018-05-30 23:02:14] [Info] Disconnect www.google.com:443
+[2018-05-30 23:02:14] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:14] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 23:02:15] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:02:15] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:02:15] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:15] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:02:15] [Info] Direct connect 123.sogou.com:80
+[2018-05-30 23:02:15] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:15] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:02:15] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:02:22] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:27] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:27] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:27] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:28] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:28] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:28] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:29] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:30] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:30] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:31] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:31] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:31] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:32] [Info] Direct connect suggestion.baidu.com:80
+[2018-05-30 23:02:32] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:32] [Info] Direct connect www.baidu.com:443
+[2018-05-30 23:02:32] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 23:02:33] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:33] [Info] Direct connect www.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss2.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss2.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss2.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss2.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss2.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss1.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss0.baidu.com:443
+[2018-05-30 23:02:33] [Info] Direct connect ss0.bdstatic.com:443
+[2018-05-30 23:02:34] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 23:02:34] [Info] Direct connect sp0.baidu.com:443
+[2018-05-30 23:02:35] [Info] Direct connect sp2.baidu.com:443
+[2018-05-30 23:02:35] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 23:02:35] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:35] [Info] Direct connect vinci.ie.sogou.com:80
+[2018-05-30 23:02:36] [Info] Connect instagram.com:80
+[2018-05-30 23:02:36] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 23:02:38] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 23:02:38] [Info] Connect instagram.com:80
+[2018-05-30 23:02:38] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 23:02:40] [Info] Connect my.ishadowx.net:443
+[2018-05-30 23:02:40] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:40] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 23:02:40] [Info] Connect instagram.com:80
+[2018-05-30 23:02:41] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 23:02:42] [Info] Connect my.ishadowx.net:443
+[2018-05-30 23:02:43] [Info] Connect gist.githubusercontent.com:443
+[2018-05-30 23:02:43] [Info] Disconnect instagram.com:80
+[2018-05-30 23:02:43] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:44] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:44] [Info] Direct connect cronus.ie.sogou.com:80
+[2018-05-30 23:02:44] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:02:44] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:44] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:02:44] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:44] [Info] Direct connect pb.sogou.com:80
+[2018-05-30 23:02:45] [Info] Connect my.ishadowx.net:443
+[2018-05-30 23:02:45] [Info] Disconnect gist.githubusercontent.com:443
+[2018-05-30 23:02:47] [Info] Disconnect my.ishadowx.net:443
+[2018-05-30 23:02:47] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:47] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:02:47] [Info] Direct connect www.sogou.com:80
+[2018-05-30 23:02:47] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:47] [Info] Direct connect get.sogou.com:80
+[2018-05-30 23:02:47] [Info] Direct connect pb.sogou.com:80
